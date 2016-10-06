@@ -46,7 +46,6 @@ end
 
 bfs(root)
 
-puts '~~~~~~~~~~~~~~~~~~~~~~~~~~~'
 #Boyuna arama
 def dfs(node)
   puts node.value
