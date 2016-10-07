@@ -1,5 +1,5 @@
 #encoding : utf-8
-class YapaySinirAgi 
+class YapaySinirAgi
   private
   def  initialize( x_ler, istenen, epsilon, esik )
      @x_ler, @istenen = x_ler, istenen
@@ -21,7 +21,7 @@ class YapaySinirAgi
  #verilen sayi 0'dan buyukse 1 yapar.
   def  ayarla(toplam)
      if toplam > 0
-       return 1 
+       return 1
      else
        return 0
      end
@@ -34,10 +34,8 @@ class YapaySinirAgi
   def  basari_bul( gercek )
      dogru = 0.0 #dogru islem sayaci
      0.upto( @istenen.size-1 ) do |i|
-       if (@istenen[i]-gercek[i]) == 0
-         dogru+=1
-       end
-     end 
+       dogru+=1 if (@istenen[i]-gercek[i]) == 0
+     end
      dogru = (dogru/@istenen.size)*100
   end
   public

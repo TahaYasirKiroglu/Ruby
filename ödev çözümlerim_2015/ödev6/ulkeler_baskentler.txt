@@ -1,0 +1,192 @@
+Almanya,Berlin
+Andorra,Andorra La Vella
+Arnavutluk,Tiran
+Avusturya,Viyana
+Belarus,Minsk
+Belçika,Brüksel
+Bosna-Hersek,Saraybosna
+Bulgaristan,Sofya 
+Ýngiltere,Londra
+Çek Cumhuriyeti,Prag
+Danimarka,Kopenhang
+Estonya,Tailin
+Finlandia,Helsinki
+Fransa,Paris
+Hýrvatistan,Zagrep
+Hollanda,Amsterdam
+Ýrlanda,Dublin
+Ýspanya,Madrid
+Ýsveç,Stockholm
+Ýsviçre,Bern
+Ýtalya,Roma
+Ýzlanda,Reykjavik
+KKTC,Lefkoþe
+GKRY,Nicosia
+Lettonya,Riga
+Liechtenstein,Vaduz
+Litvanya,Vilnus
+Lüksemburg,Lüksemburg
+Macaristan,Budapeþte
+Makedonya,Üsküp
+Malta,Valletta
+Moldova,Kiþinev
+Monako,Monako
+Norveç,Oslo
+Polonya,Varþova
+Portekiz,Lizbon
+Romanya,Bükreþ
+Rusya,Moskova
+San Marino,San Marino
+Sýrbistan-Karadað,Belgrad
+Slovakya,Bratislava
+Slovenya,Ljubljana
+Türkiye,Ankara
+Ukrayna,Kiev
+Yunanistan,Atina
+Afganistan,Kabil
+Azerbaycan,Bakü
+BAE,Abudabi
+Bahreyn,Manama
+Bangladeþ,Dakka
+Bhutan,Timbu
+Ermenistan,Erivan
+Gürcistan,Tiflis
+Hindistan,Yeni Delhi
+Irak,Baðdat
+Ýran,Tahran
+Ýsrail,Tel-Aviv
+Katar,Doha
+Kazakistan,Astana
+Kýrgýzistan,Biþkek
+Kuveyt,Kuveyt
+Lübnan,Beyrut
+Maldiv Adalarý,Male
+Nepal,Katmandu
+Özbekistan,Taþkent
+Pakistan,Ýslamabad
+Srilanka,Kolombo
+Suriye,Þam
+Suudi Arabistan,Riyad
+Tacikistan,Duþanbe
+Türkmenistan,Aþkabad
+Umman,Maskat
+Ürdün,Amman
+Yemen,San' a
+Birmanya,Rangun
+Brunei,Bandar Seri Begawan
+Çin,Pekin
+Doðu Timör,Dili
+Filipinler,Manila
+G.Kore,Seul
+Endonezya,Jakarta
+Japonya,Tokyo
+Kamboçya,Pnom Penh
+K.Kore,Pyongyang
+Laos,Vientian
+Malezya,Kuala Lumpur
+Moðolistan,Ulan Batar
+Singapur,Singapur
+Tayland,Bangkok
+Vietnam,Hanoi
+Avustralya,Canberra
+Fiji,Suva
+Kiribati,Tarawa
+Marshall Adalarý,Majuro
+Mikronezya Federe Devletleri,Palikir
+Nauru,Yaren
+Palau Adalarý,Koror
+Papua Yeni Gine,Portmoresby
+Solomon,Honiara
+Samoa,Apia
+Tonga,Nuku'alafa
+Tuvalu,Fongafale
+Vanuatu,Port Vila
+Yeni Zelenda,Wellington
+Angola,Luanda
+Benin,Porto-Nouo
+Botsvana,Gaborone
+Burundi,Bulumbura
+Cezayir,Cezayir
+Cibuti,Cibuti
+Çad Cumhuriyeti,N.Djamena
+Demokratik Kongo Cumhuriyeti,Kinshasa
+Ekvator Ginesi,Malabo
+Eritre,Asmara
+Etiyopya,Addis Ababa
+Fas,Rabat
+Fildiþi Sahilleri,Yamooussoukro
+Gabon,Libreville
+Gambiya,Banjul
+Gana,Accra
+Gine,Konakri
+Gine-Bissau,Bissau
+G.Afrika,Pretoria
+Kamerun,Yaunde
+Kenya,Nairobi
+Komorlar,Moroni
+Kongo Cumhuriyeti,Brazaville
+Lesotho,Maseru
+Liberya,Monrovia
+Libya,Batý Trablus
+Madagaskar,Antonanarivo
+Malavi,Lilongwe
+Mali,Bamako
+Mauritus,Port Luis
+Mýsýr,Kahire
+Moritanya,Novakchott
+Mozambik,Maputa
+Namibia,Windhoek
+Nijer,Niamey 
+Nijerya,Abuja
+Orta Afrika Cumhuriyeti,Bangui
+Ruanda,Kigali
+Sao Tome,Sao Tome
+Senegal,Dakar
+Seyþeller,Viktoria
+Sierra Leone,Freetown
+Somali,Mogadiþu
+Sudan,Hartum
+Svaziland,Mbabane
+Tanzanya,Dodoma
+Togo,Lome
+Tunus,Tunus
+Uganda,Kampala
+Volta,Uagadugu
+Yeþilburun Adalarý,Praia
+Zambiya,Lusaka
+Zimbabwe,Harare
+ABD,Washigton D.C
+Antigua ve Barbuda,Saint John's
+Bahama Adalarý,Nassabu
+Barbados,Bridgetown
+Belize,Belmopan
+Dominik Cumhuriyeti,Santo Domingo
+Dominika,Roseau
+El Salvador,San Salvador
+Grenada,St.Georges
+Guatemala,Guatemala
+Haiti,Port-au-Prince
+Honduras,Tequcigalpa
+Jamaika,Kingston
+Kanada,Ottawa
+Kosta Rika,San Jose
+Küba,Havana
+Meksika,Meksiko
+Nikaragua,Managua
+Panama,Panama
+Paraguay,Asuncion
+Santa Kitts ve Nevis,Basseterre
+Santa Lucia,Castries
+Santa Vincent ve Grenadines,Kingstown
+Trinidad Tobago,Port of Spain
+Arjantin,Buenos Aires
+Bolivya,Sucre 
+Brezilya,Bresilia
+Ekvador,Quito
+Guyana,Georgetown
+Kolombiya,Bogota
+Peru,Lima
+Surinam,Paramaribo
+Þili,Santiago
+Uruguay,Montevideo
+Venezulla,Caracas
