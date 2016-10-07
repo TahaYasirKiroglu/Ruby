@@ -7,7 +7,7 @@
              if a%5
                 str+="buzz"
              else
-                str = "#{fizzybuzzy}"
+                str = "#{fizzbuzz}"
              end
              puts str
 end
