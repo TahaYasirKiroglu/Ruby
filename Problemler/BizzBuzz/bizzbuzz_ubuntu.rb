@@ -2,7 +2,8 @@
 require 'io/console' # getch icin
 require 'timeout' # sure icin
 def kurallar()
-	puts "\n\n\nBizzBuzz"
+	system 'clear'
+	puts "BizzBuzz"
 	puts "Oyunun kurallari basit:"
 	puts "-> 1'den başlayarak 1'er artan olarak sayi yazacaksınız."
 	puts "-> Tahmininiz eğer 3'ün tam katiysa \'Bizz\',"
@@ -34,10 +35,10 @@ end
 def tahmin_al( sira )
 	print "#{sira}. oyuncu:\t"
 	tahmin=""
-	Timeout::timeout(10) { # Cevabi 10saniye bekle
+	Timeout::timeout(10) { # Cevabi 10 saniye bekle
 		tahmin = gets.chomp.downcase
 	}
-	rescue Timeout::Error # Eger cevap 10 icinde gelmezse uyari versin
+	rescue Timeout::Error # Eger cevap 10 icinde gelmezse zaman doldu yazsın
 		puts "\nZaman doldu!!!"
 
 	return tahmin
@@ -45,7 +46,6 @@ end
 def bizzBuzz( )
 	kurallar()
 	kSayisi = kac_kisi() + 1
-	system 'clear' # windows icin system '@cls'
 	iSayi = 1
 	puts "Bilgisayar:\t1"
 	sSayi = ""
