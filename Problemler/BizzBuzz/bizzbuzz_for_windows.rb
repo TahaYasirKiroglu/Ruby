@@ -2,7 +2,8 @@
 require 'io/console' # getch icin
 require 'timeout' # sure icin
 def kurallar()
-	puts "\n\n\nBizzBuzz"
+	system '@cls' # ubuntu icin "system 'clear'"
+	puts "\nBizzBuzz"
 	puts "Oyunun kurallari basit:"
 	puts "-> 1'den başlayarak 1'er artan olarak sayi yazacaksınız."
 	puts "-> Tahmininiz eğer 3'ün tam katiysa \'Bizz\',"
