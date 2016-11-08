@@ -15,12 +15,12 @@ Fransa,Paris
 Hırvatistan,Zagrep
 Hollanda,Amsterdam
 İrlanda,Dublin
-İspanya,Madrid
-İsveç,Stockholm
+ispanya,Madrid
+isveç,Stockholm
 İsviçre,Bern
 İtalya,Roma
-İzlanda,Reykjavik
-KKTC,Lefkoşe
+izlanda,Reykjavik
+KKTC,Lefkoşa
 GKRY,Nicosia
 Lettonya,Riga
 Liechtenstein,Vaduz
@@ -75,7 +75,7 @@ Yemen,San' a
 Birmanya,Rangun
 Brunei,Bandar Seri Begawan
 Çin,Pekin
-Doğu Timör,Dili
+Doğu Timer,Dili
 Filipinler,Manila
 G.Kore,Seul
 Endonezya,Jakarta
@@ -128,7 +128,7 @@ Kongo Cumhuriyeti,Brazaville
 Lesotho,Maseru
 Liberya,Monrovia
 Libya,Batı Trablus
-Madagaskar,Antonanarivo 
+Madagaskar,Antonanarivo
 Malavi,Lilongwe
 Mali,Bamako
 Mauritus,Port Luis
@@ -142,7 +142,7 @@ Orta Afrika Cumhuriyeti,Bangui
 Ruanda,Kigali
 Sao Tome,Sao Tome
 Senegal,Dakar
-Seyşeller,Viktoria
+Seyseller,Viktoria
 Sierra Leone,Freetown
 Somali,Mogadişu
 Sudan,Hartum
