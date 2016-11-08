@@ -3,98 +3,98 @@ Andorra,Andorra La Vella
 Arnavutluk,Tiran
 Avusturya,Viyana
 Belarus,Minsk
-Belçika,Brüksel
+BelÃ§ika,BrÃ¼ksel
 Bosna-Hersek,Saraybosna
 Bulgaristan,Sofya 
-İngiltere,Londra
-Çek Cumhuriyeti,Prag
+Ä°ngiltere,Londra
+Ã‡ek Cumhuriyeti,Prag
 Danimarka,Kopenhang
 Estonya,Tailin
 Finlandia,Helsinki
 Fransa,Paris
-Hırvatistan,Zagrep
+HÄ±rvatistan,Zagrep
 Hollanda,Amsterdam
-İrlanda,Dublin
-İspanya,Madrid
-İsveç,Stockholm
-İsviçre,Bern
-İtalya,Roma
-İzlanda,Reykjavik
-KKTC,Lefkoşe
+Ä°rlanda,Dublin
+Ä°spanya,Madrid
+Ä°sveÃ§,Stockholm
+Ä°sviÃ§re,Bern
+Ä°talya,Roma
+Ä°zlanda,Reykjavik
+KKTC,LefkoÅŸe
 GKRY,Nicosia
 Lettonya,Riga
 Liechtenstein,Vaduz
 Litvanya,Vilnus
-Lüksemburg,Lüksemburg
-Macaristan,Budapeşte
-Makedonya,Üsküp
+LÃ¼ksemburg,LÃ¼ksemburg
+Macaristan,BudapeÅŸte
+Makedonya,ÃœskÃ¼p
 Malta,Valletta
-Moldova,Kişinev
+Moldova,KiÅŸinev
 Monako,Monako
-Norveç,Oslo
-Polonya,Varşova
+NorveÃ§,Oslo
+Polonya,VarÅŸova
 Portekiz,Lizbon
-Romanya,Bükreş
+Romanya,BÃ¼kreÅŸ
 Rusya,Moskova
 San Marino,San Marino
-Sırbistan-Karadağ,Belgrad
+SÄ±rbistan-KaradaÄŸ,Belgrad
 Slovakya,Bratislava
 Slovenya,Ljubljana
-Türkiye,Ankara
+TÃ¼rkiye,Ankara
 Ukrayna,Kiev
 Yunanistan,Atina
 Afganistan,Kabil
-Azerbaycan,Bakü
+Azerbaycan,BakÃ¼
 BAE,Abudabi
 Bahreyn,Manama
-Bangladeş,Dakka
+BangladeÅŸ,Dakka
 Bhutan,Timbu
 Ermenistan,Erivan
-Gürcistan,Tiflis
+GÃ¼rcistan,Tiflis
 Hindistan,Yeni Delhi
-Irak,Bağdat
-İran,Tahran
-İsrail,Tel-Aviv
+Irak,BaÄŸdat
+Ä°ran,Tahran
+Ä°srail,Tel-Aviv
 Katar,Doha
 Kazakistan,Astana
-Kırgızistan,Bişkek
+KÄ±rgÄ±zistan,BiÅŸkek
 Kuveyt,Kuveyt
-Lübnan,Beyrut
-Maldiv Adaları,Male
+LÃ¼bnan,Beyrut
+Maldiv AdalarÄ±,Male
 Nepal,Katmandu
-Özbekistan,Taşkent
-Pakistan,İslamabad
+Ã–zbekistan,TaÅŸkent
+Pakistan,Ä°slamabad
 Srilanka,Kolombo
-Suriye,Şam
+Suriye,Åam
 Suudi Arabistan,Riyad
-Tacikistan,Duşanbe
-Türkmenistan,Aşkabad
+Tacikistan,DuÅŸanbe
+TÃ¼rkmenistan,AÅŸkabad
 Umman,Maskat
-Ürdün,Amman
+ÃœrdÃ¼n,Amman
 Yemen,San' a
 Birmanya,Rangun
 Brunei,Bandar Seri Begawan
-Çin,Pekin
-Doğu Timör,Dili
+Ã‡in,Pekin
+DoÄŸu TimÃ¶r,Dili
 Filipinler,Manila
 G.Kore,Seul
 Endonezya,Jakarta
 Japonya,Tokyo
-Kamboçya,Pnom Penh
+KamboÃ§ya,Pnom Penh
 K.Kore,Pyongyang
 Laos,Vientian
 Malezya,Kuala Lumpur
-Moğolistan,Ulan Batar
+MoÄŸolistan,Ulan Batar
 Singapur,Singapur
 Tayland,Bangkok
 Vietnam,Hanoi
 Avustralya,Canberra
 Fiji,Suva
 Kiribati,Tarawa
-Marshall Adaları,Majuro
+Marshall AdalarÄ±,Majuro
 Mikronezya Federe Devletleri,Palikir
 Nauru,Yaren
-Palau Adaları,Koror
+Palau AdalarÄ±,Koror
 Papua Yeni Gine,Portmoresby
 Solomon,Honiara
 Samoa,Apia
@@ -108,13 +108,13 @@ Botsvana,Gaborone
 Burundi,Bulumbura
 Cezayir,Cezayir
 Cibuti,Cibuti
-Çad Cumhuriyeti,N.Djamena
+Ã‡ad Cumhuriyeti,N.Djamena
 Demokratik Kongo Cumhuriyeti,Kinshasa
 Ekvator Ginesi,Malabo
 Eritre,Asmara
 Etiyopya,Addis Ababa
 Fas,Rabat
-Fildişi Sahilleri,Yamooussoukro
+FildiÅŸi Sahilleri,Yamooussoukro
 Gabon,Libreville
 Gambiya,Banjul
 Gana,Accra
@@ -127,12 +127,12 @@ Komorlar,Moroni
 Kongo Cumhuriyeti,Brazaville
 Lesotho,Maseru
 Liberya,Monrovia
-Libya,Batı Trablus
-Madagaskar,Antonanarivo
+Libya,BatÄ± Trablus
+Madagaskar,Antonanarivo 
 Malavi,Lilongwe
 Mali,Bamako
 Mauritus,Port Luis
-Mısır,Kahire
+MÄ±sÄ±r,Kahire
 Moritanya,Novakchott
 Mozambik,Maputa
 Namibia,Windhoek
@@ -142,9 +142,9 @@ Orta Afrika Cumhuriyeti,Bangui
 Ruanda,Kigali
 Sao Tome,Sao Tome
 Senegal,Dakar
-Seyşeller,Viktoria
+SeyÅŸeller,Viktoria
 Sierra Leone,Freetown
-Somali,Mogadişu
+Somali,MogadiÅŸu
 Sudan,Hartum
 Svaziland,Mbabane
 Tanzanya,Dodoma
@@ -152,12 +152,12 @@ Togo,Lome
 Tunus,Tunus
 Uganda,Kampala
 Volta,Uagadugu
-Yeşilburun Adaları,Praia
+YeÅŸilburun AdalarÄ±,Praia
 Zambiya,Lusaka
 Zimbabwe,Harare
 ABD,Washigton D.C
 Antigua ve Barbuda,Saint John's
-Bahama Adaları,Nassabu
+Bahama AdalarÄ±,Nassabu
 Barbados,Bridgetown
 Belize,Belmopan
 Dominik Cumhuriyeti,Santo Domingo
@@ -170,7 +170,7 @@ Honduras,Tequcigalpa
 Jamaika,Kingston
 Kanada,Ottawa
 Kosta Rika,San Jose
-Küba,Havana
+KÃ¼ba,Havana
 Meksika,Meksiko
 Nikaragua,Managua
 Panama,Panama
@@ -187,6 +187,6 @@ Guyana,Georgetown
 Kolombiya,Bogota
 Peru,Lima
 Surinam,Paramaribo
-Şili,Santiago
+Åili,Santiago
 Uruguay,Montevideo
 Venezulla,Caracas
