@@ -1,32 +1,36 @@
 #encoding : UTF-8
-def  yaz( a )
-   puts a
-end
-def  oku(dosya) # Dosyalari sadece adindan okuyan fonksiyon
-   dosya_adi = File.read( "#{dosya}.txt" ).split
+def  dosya_oku( dosya ) # Dosyalari sadece adindan okuyan fonksiyon
+   dosya_adi = File.read( "#{ dosya }" ).split
 end
 def  hashleme( dizi ) # Array'den hash'e
    dizi = Hash[*dizi]
 end
-def  oranti( dizi ) # Çan eğrisi ve not güncelleme
-   max_puan = dizi.values.max.to_f
+def  not_guncelle( notlar_hash ) # Çan eğrisi ve not güncelleme
+   max_puan = notlar_hash.values.max.to_f
    oran = ( 100 - max_puan ) / max_puan
-   dizi.map { |k, v| dizi[k] = (v.to_i + v.to_i * oran).ceil }
-   puan_ortalama( dizi )
+   notlar_hash.map { |k, v| notlar_hash[k] = (v.to_i + v.to_i * oran).ceil }
+   return notlar_hash
 end
-def  puan_ortalama( dizi ) # Sınıf ortalamasını bulur
+def  ortalama( notlar_hash ) # Sınıf ortalamasını bulur
    toplam = 0
-   dizi.values.select do |sayi|
+   notlar_hash.values.select do |sayi|
      toplam += sayi.to_i
    end
-   ortalama = toplam / dizi.size
-   yaz("yeni sınıf ortalaması: #{ortalama}")
-   ortalama_sayac( dizi, ortalama )
+   ortalama = toplam / notlar_hash.size
+   puts "yeni sınıf ortalaması: #{ ortalama }"
+   ortalama_ustu( notlar_hash, ortalama )
 end
-def  ortalama_sayac( dizi, ortalama ) # ortalamanın üstündekiler
+def  ortalama_ustu( notlar_hash, ortalama ) # ortalamanın üstündekiler
    i = 0
-   dizi.values.select { |chr| i += 1 unless chr < ortalama }
-   yaz("#{i} öğrenci ortalamanın üstünde.")
+   notlar_hash.values.select { | puan | i += 1 if puan >= ortalama }
+   puts "#{ i } öğrenci ortalamanın üstünde."
 end
-dizi = oku( "not" )
-dizi = oranti( hashleme( dizi ) )
+def   program1
+   dizi = dosya_oku( "not.txt" )
+   dizi = hasleme( dizi )
+   dizi = not_güncelle( dizi )
+   dizi = puan_ortalama( dizi )
+   dizi = ortalama(dizi)
+end
+
+program1
