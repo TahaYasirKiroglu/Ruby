@@ -9,7 +9,7 @@ def tablo_bas (alt, ust, adim, xR, hata_payi)
 	puts  "#{hata_payi}"
 end
 def kok_bas (xR)
-		puts "Kök: #{xR}"
+	puts "Kök: #{xR}"
 end
 def xr_bul (alt, ust, yontem = 1)
 	if (yontem == 0) # yontem 0'sa dogrusal yöntem çalışacak
