@@ -6,10 +6,10 @@ def tablo_bas (alt, ust, adim, xR, hata_payi)
 	print "#{adim}\t#{alt.round(4)}\t#{ust.round(4)}\t"
 	print "#{xR.round(4)}\t#{islem(alt).round(4)}\t"
 	print "#{islem(ust).round(4)}\t#{islem(xR).round(4)}\t"
-	puts  "#{hata_payi}"
+	puts  "#{hata_payi.round(6)}"
 end
 def kok_bas (xR)
-	puts "Kök: #{xR}"
+		puts "Kök: #{xR}"
 end
 def xr_bul (alt, ust, yontem = 1)
 	if (yontem == 0) # yontem 0'sa dogrusal yöntem çalışacak
@@ -19,11 +19,9 @@ def xr_bul (alt, ust, yontem = 1)
 	end
 	return xR
 end
-
 def hata_payi_bul (xR, xR_eski)
 	return ((xR - xR_eski) / xR).abs * 100
 end
-
 def kok_bul (yontem, ust, alt=0, hata_siniri=0, xR_eski=0, adim=0)
 	if (islem(alt) * islem(ust) < 0 ) # adim1
 		adim, flag = adim + 1 , 0
@@ -48,6 +46,10 @@ def kok_bul (yontem, ust, alt=0, hata_siniri=0, xR_eski=0, adim=0)
 	end
 end
 
+puts "Doğrusal Yaklaşımla Çözüm"
 puts "Adım\tXa\tXü\tXr\tf(Xa)\tf(Xü)\tf(Xr)\tHata Payı"
+kok_bul(0, 1.3, 0, 0.01)
 
-kok_bul(0, 1.3)
+puts "\nAralığı İkiye Bölme Yöntemiyle"
+puts "Adım\tXa\tXü\tXr\tf(Xa)\tf(Xü)\tf(Xr)\tHata Payı"
+kok_bul(1, 1.3, 0, 0.01)
