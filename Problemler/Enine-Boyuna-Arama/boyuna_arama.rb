@@ -14,7 +14,7 @@ def  aranan_mi?(stack) #aranan eleman mi?
 end
 
 def  boyuna_arama(agac, stack)
-  if  !(agac.empty?)       #eğer agac bos degilse
+  unless agac.empty?       #eğer agac bos degilse
      agac = agac[1]
          aranan_mi?(stack)    #aran eleman mi?
        (agac.size-1).downto(0) do |i| #ağaçta soldan başlaması için
