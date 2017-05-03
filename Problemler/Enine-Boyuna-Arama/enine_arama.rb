@@ -16,7 +16,7 @@ def  aranan_mi?(agac) #aranan eleman mi?
 end
 
 def  enine_arama(agac, kuyruk)
-  if  !(agac.empty?)        #eğer agac bos degilse
+  unless (agac.empty?)        #eğer agac bos degilse
       aranan_mi?(kuyruk)    #aran eleman mi? 
       agac = agac[1]   #cocukların oldugu diziyi esitliyor
       0.upto(agac.size-1){ |i| kuyruk<< agac[i][0] } #cocukları kuyruga at
